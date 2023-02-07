@@ -1,0 +1,33 @@
+{
+	"version": "said v4",
+
+
+
+
+
+
+"unityid": "4983033",
+"unityinter": "Interstitial_Android",
+"unityreward": "Rewarded_Android",
+"unitybanner": "Banner_Android",
+
+"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+"admobReward": "ca-app-pub-3940256099942544/5224354917",
+
+"adscounter": "1",
+"showrateTime": "12",
+
+
+"adsSwitchInter details ": "0:auto 1:admob  2:unity",
+
+"adsSwitchInter": "2",
+"adsSwitchBanner": "2",
+"adsSwitchReward": "2"
+	
+
+
+
+
+
+}
