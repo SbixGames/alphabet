@@ -1,5 +1,5 @@
 {
-	"version": "said v4",
+	"version": "Alphabet Lore",
 
 
 
@@ -11,9 +11,9 @@
 "unityreward": "Rewarded_Android",
 "unitybanner": "Banner_Android",
 
-"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
-"admobInterId": "ca-app-pub-3940256099942544/1033173712",
-"admobReward": "ca-app-pub-3940256099942544/5224354917",
+"admobbannerId": "ca-app-pub-3582832293206410/3944402251",
+"admobInterId": "ca-app-pub-3582832293206410/5811199455",
+"admobReward": "ca-app-pub-3582832293206410/6043951984",
 
 "adscounter": "1",
 "showrateTime": "6",
@@ -21,7 +21,7 @@
 
 "adsSwitchInter details ": "0:auto 1:admob  2:unity",
 
-"adsSwitchInter": "2",
+"adsSwitchInter": "1",
 "adsSwitchBanner": "1",
 "adsSwitchReward": "2"
 	
