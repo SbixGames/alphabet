@@ -11,9 +11,9 @@
 "unityreward": "Rewarded_Android",
 "unitybanner": "Banner_Android",
 
-"admobbannerId": "ca-app-pub-7705353387861177/6268683813",
-"admobInterId": "ca-app-pub-7705353387861177/9445511497",
-"admobReward": "ca-app-pub-7705353387861177/1016357136",
+"admobbannerId": "ca-app-pub-9308071837275271/9874063934",
+"admobInterId": "ca-app-pub-9308071837275271/1995573910",
+"admobReward": "ca-app-pub-9308071837275271/1162656786",
 
 "adscounter": "0",
 "showrateTime": "6",
@@ -21,9 +21,9 @@
 
 "adsSwitchInter details ": "0:auto 1:admob  2:unity",
 
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2"
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1"
 	
 
 
